@@ -1,0 +1,1 @@
+Obsidian-GDCT_Dark
