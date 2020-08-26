@@ -1,1 +1,3 @@
-Obsidian-GDCT_Dark
+# GDCT
+
+![](gdct.png)
